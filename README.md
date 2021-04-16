@@ -1,2 +1,2 @@
-# Porfolio
-Porfolio Website
+# Portfolio
+Portfolio Website
